@@ -1,5 +1,10 @@
 # README
-
+This is my Personal Portfolio Website
+It needs some fixing:
+* the form is not fully functioning
+* the javascript is not entirely working
+* it needs abit of tweaking
+ENJOY!!!!
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
